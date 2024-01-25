@@ -23,7 +23,4 @@ Things you may want to cover:
 
 - ...
 
-* This is a test from Divya please remove it
-=======
-- Lioine 27 added for testing readme2 branch
 

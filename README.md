@@ -24,4 +24,4 @@ Things you may want to cover:
 
 * ...
 
-* This is a test from Divya please remove it.
+* This is a test from Divya please remove it

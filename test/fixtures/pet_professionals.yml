@@ -1,0 +1,63 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  city: one
+  profile_picture: 
+  first_name: MyString
+  last_name: MyString
+  username: MyString
+  password: MyString
+  password_confirmation: MyString
+  gender: MyString
+  email: MyString
+  phone_number: MyString
+  emergency_phone_number: MyString
+  address: MyString
+  address_line2: MyString
+  postal_code: MyString
+  state_province: MyString
+  business_name: MyString
+  profession: MyString
+  social_media: MyString
+  professional_certificate: 
+  company_registration_number: MyString
+  business_license: 
+  short_bio: MyText
+  short_work_description: MyString
+  years_of_experience: 1
+  services_offered: MyString
+  business_hours: MyString
+  about_me_video_file: 
+  latitude: 9.99
+  longitude: 9.99
+
+two:
+  city: two
+  profile_picture: 
+  first_name: MyString
+  last_name: MyString
+  username: MyString
+  password: MyString
+  password_confirmation: MyString
+  gender: MyString
+  email: MyString
+  phone_number: MyString
+  emergency_phone_number: MyString
+  address: MyString
+  address_line2: MyString
+  postal_code: MyString
+  state_province: MyString
+  business_name: MyString
+  profession: MyString
+  social_media: MyString
+  professional_certificate: 
+  company_registration_number: MyString
+  business_license: 
+  short_bio: MyText
+  short_work_description: MyString
+  years_of_experience: 1
+  services_offered: MyString
+  business_hours: MyString
+  about_me_video_file: 
+  latitude: 9.99
+  longitude: 9.99

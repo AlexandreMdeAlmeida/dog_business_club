@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rating: 1.5
+  review_text: MyString
+  review_date: 2024-02-03
+  pet_owner: one
+  pet_professional: one
+
+two:
+  rating: 1.5
+  review_text: MyString
+  review_date: 2024-02-03
+  pet_owner: two
+  pet_professional: two

@@ -4,5 +4,5 @@ class User < ApplicationRecord
   devise :database_authenticatable, :registerable,
          :recoverable, :rememberable, :validatable
 
-  #attr_accessible :profile_picture, :first_name, :last_name, :username, :gender, :phone_number
+  validates :first_name, :last_name, :username, :email, presence: true
 end

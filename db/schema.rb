@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2024_02_03_163307) do
+ActiveRecord::Schema[7.0].define(version: 2024_02_04_212325) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -66,7 +66,7 @@ ActiveRecord::Schema[7.0].define(version: 2024_02_03_163307) do
     t.string "state_province"
     t.string "dog_name"
     t.string "dog_breed"
-    t.string "additional_info"
+    t.text "additional_info"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["city_id"], name: "index_pet_owners_on_city_id"
@@ -95,7 +95,7 @@ ActiveRecord::Schema[7.0].define(version: 2024_02_03_163307) do
     t.string "company_registration_number"
     t.binary "business_license"
     t.text "short_bio"
-    t.string "short_work_description"
+    t.text "short_work_description"
     t.integer "years_of_experience"
     t.string "services_offered"
     t.string "business_hours"

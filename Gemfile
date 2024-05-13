@@ -30,6 +30,14 @@ gem "jbuilder"
 # Install Devise
 gem "devise"
 
+# Install Bootstrap
+gem "bootstrap"
+
+#install "sassc-rails" enhances the performance and efficiency
+#of Sass compilation within a Ruby on Rails application, contributing to a
+#smoother development experience and improved runtime performance.
+gem "sassc-rails"
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 

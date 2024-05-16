@@ -38,6 +38,12 @@ gem "bootstrap"
 #smoother development experience and improved runtime performance.
 gem "sassc-rails"
 
+# Webpacker
+gem "webpacker"
+
+# Psych
+gem 'psych', '~> 4.0'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
